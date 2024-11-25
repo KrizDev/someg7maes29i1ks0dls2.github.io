@@ -9,5 +9,9 @@ Use this link:
 ```
 And click the game you want to "Play", after that, copy link and insert full site on Google Sites
 
-There are also .svg , but the instruction its not given.
+There are also .swg , but the instruction its not given.
 
+## Authors:
+
+- the author that make original site on github
+- Me
