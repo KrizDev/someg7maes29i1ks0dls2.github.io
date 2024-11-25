@@ -1,6 +1,6 @@
 # someg7maes29i1ks0dls2.github.io 
 
-So this is a hosting website for my site in Google Sites, you can use too!
+So this is a hosting website for my site in Google Sites, you can use it too!
 
 ## How to use it?
 Use this link:
