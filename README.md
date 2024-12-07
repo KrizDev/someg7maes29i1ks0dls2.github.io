@@ -7,10 +7,7 @@ Use this link:
 ```bash
   https://krizdev.github.io/someg7maes29i1ks0dls2.github.io
 ```
-And click the game you want to "Play", after that, copy link and insert full site on Google Sites
-
-There are also .swf, but the instruction its not given.
-
+and use ```/src``` folder and folder with game, like this ```/src/mc-classic```  Full link: ```https://krizdev.github.io/someg7maes29i1ks0dls2.github.io/src/mc-classic/```
 ## Authors:
 
 - the author that make original site on github
