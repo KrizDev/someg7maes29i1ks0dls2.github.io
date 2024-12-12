@@ -12,3 +12,5 @@ and use ```/src``` folder and folder with game, like this ```/src/mc-classic``` 
 
 - the author that make original site on github
 - Me
+## More:
+the second hosting website url:
